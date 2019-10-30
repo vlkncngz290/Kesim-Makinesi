@@ -1,0 +1,13 @@
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\bin\Release\Bitekser Kesim.exe
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\bin\Release\Bitekser Kesim.pdb
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\bin\Release\MetroFramework.Design.dll
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\bin\Release\MetroFramework.dll
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser Kesim.csprojAssemblyReference.cache
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser_Kesim.Form1.resources
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser_Kesim.Properties.Resources.resources
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser Kesim.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser Kesim.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser Kesim.csproj.CopyComplete
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser Kesim.exe
+C:\Users\Volkan\source\repos\Bitekser Kesim\Bitekser Kesim\obj\Release\Bitekser Kesim.pdb
